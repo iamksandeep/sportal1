@@ -1,0 +1,19 @@
+Applix:
+ 
+http://applix.mnemoniceducation.com/
+Email- skhandelwal@mnemoniceducation.com
+Pass- sandeep
+
+skhandelwal@mnemoniceducation.com
+sk@mne
+
+ system pass :- sk@123
+http://www.yiiframework.com/doc/guide/1.1/en/quickstart.first-app
+DocumentRoot "c:/wamp/www/"
+
+Buttons and Icons
+http://twitter.github.com/bootstrap/base-css.html#icons
+
+Demo Local A/c Applix
+sandymca1987@gmail.com
+sandy
