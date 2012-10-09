@@ -1,8 +1,0 @@
-# Yii ignore files
-public/assets/
-protected/runtime/
-themes/classic/views/
-
-# SublimeText project files
-/*.sublime-project
-*.sublime-workspace
